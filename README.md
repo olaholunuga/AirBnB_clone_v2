@@ -886,5 +886,5 @@ guillaume@ubuntu:~/AirBnB_v2$
 
 
 # Authors
-* **Ayomide Olunuga**
+* [**Ayomide Olunuga**](https://github.com/olaholunuga)
 * [**Jackson Eyamu**](https://github.com/de-jackson)
